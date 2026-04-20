@@ -14,11 +14,8 @@
     <a href="http://arxiv.org/abs/xxxx.xxxxx">
       <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='Paper PDF'>
     </a>
-    <a href="https://huggingface.co/xxx/HyLar-7B" target="_blank" rel="noopener noreferrer">
+    <a href="https://huggingface.co/TencentBAC/HyLar" target="_blank" rel="noopener noreferrer">
       <img alt="HF Model: HyLar-7B" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-HyLar_7B-ffc107?color=ffc107&logoColor=white" height="20" />
-    </a>
-    <a href="https://huggingface.co/xxx/HyLar-SFT-7B" target="_blank" rel="noopener noreferrer">
-      <img alt="HF Model: HyLar-SFT-7B" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-HyLar_SFT_7B-ffc107?color=ffc107&logoColor=white" height="20" />
     </a>
     <a href="https://huggingface.co/datasets/xxx/HyLar-SFT-Data" target="_blank">
       <img alt="HF Data: HyLar-SFT-Data" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Data-HyLar_SFT_Data-ffc107?color=ffc107&logoColor=white" height="20" />
