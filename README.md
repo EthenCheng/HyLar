@@ -121,11 +121,11 @@ The training requires monkey-patching the official Qwen2.5-VL forward pass, impl
 
 ### Training Script
 
-See [vlpo_train.sh](./RL/examples/vlpo_train.sh).
+See [depo_train.sh](./RL/examples/depo_train.sh).
 
 ```bash
 cd RL
-bash examples/vlpo_train.sh
+bash examples/depo_train.sh
 ```
 
 ### Model Merging
