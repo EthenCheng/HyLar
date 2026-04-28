@@ -20,7 +20,7 @@
     <a href="https://huggingface.co/datasets/multimodal-reasoning-lab/Zebra-CoT" target="_blank">
       <img alt="HF Data: HyLaR-SFT-Data" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Data-HyLaR_SFT_Data-ffc107?color=ffc107&logoColor=white" height="20" />
     </a>
-    <a href="https://huggingface.co/datasets/xxx/HyLaR-RL-Data" target="_blank">
+    <a href="https://huggingface.co/datasets/TencentBAC/HyLaR_RL_Training_Dataset" target="_blank">
       <img alt="HF Data: HyLaR-RL-Data" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Data-HyLaR_RL_Data-ffc107?color=ffc107&logoColor=white" height="20" />
     </a>
   </p>
@@ -35,6 +35,7 @@ We introduce <b>HyLaR</b>, a training framework that enables multimodal large la
 
 ## 🔥Updates
 * **2026.4.21** Initial release of HyLaR codebase, including SFT training, RL training, evaluation scripts and model checkpoints.
+* **2026.4.28** We released the training data for the model's SFT and RL stages.
 
 ## 🔍Overview
 <details open="open" style='padding: 10px; border-radius:5px 30px 30px 5px; border-style: solid; border-width: 1px;'>
