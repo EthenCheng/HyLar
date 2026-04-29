@@ -178,12 +178,11 @@ python Evaluate/Accuracy_judge.py --input_path <results.json> --output_path <jud
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@misc{cheng2026hybridlatentreasoningdecoupled,
-      title={Hybrid Latent Reasoning with Decoupled Policy Optimization}, 
-      author={Tao Cheng and Shi-Zhe Chen and Hao Zhang and Yixin Qin and Jinwen Luo and Zheng Wei},
-      year={2026},
-      eprint={2604.20328},
-      archivePrefix={arXiv}
+@article{cheng2026hybrid,
+  title={Hybrid Latent Reasoning with Decoupled Policy Optimization},
+  author={Cheng, Tao and Chen, Shi-Zhe and Zhang, Hao and Qin, Yixin and Luo, Jinwen and Wei, Zheng},
+  journal={arXiv preprint arXiv:2604.20328},
+  year={2026}
 }
 ```
 
