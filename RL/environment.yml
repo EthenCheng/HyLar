@@ -1,4 +1,4 @@
-name: hylar-rl
+name: hylar
 channels:
   - defaults
 dependencies:
