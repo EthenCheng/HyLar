@@ -74,22 +74,14 @@ HyLar is built on top of **Qwen2.5-VL-7B** with customized forward passes in bot
 git clone https://github.com/EthenCheng/HyLar.git
 ```
 
-### SFT Environment
-
-```bash
-conda create -n hylar-sft python=3.10
-conda activate hylar-sft
-cd HyLar/SFT
-pip install -r requirements.txt
-pip install qwen-vl-utils
-pip install flash-attn --no-build-isolation
-```
-
-### RL Environment
+### Environment
 
 ```bash
 cd HyLar/RL
 conda env create -f environment.yml
+wget https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.2.post1/flash_attn-2.7.2.post1+cu12torch2.6cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
+pip install flash_attn-2.7.2.post1+cu12torch2.6cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
+pip install deepspeed
 ```
 
 
